@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: [https://linkedin.com/in/Josh](https://linkedin.com/in/reimon-javing-959b6b352/)
+[linkedin]: https://linkedin.com/in/reimon-javing-959b6b352/
