@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/reimon08/osTicket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/reimon08/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/reimon08/configure-ad)
+  - [Preparing Active Directory Infrastructure in the cloud (Azure)](https://github.com/reimon08/Preparing-Active-Directory-in-the-cloud-Azure-)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/reimon08/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
