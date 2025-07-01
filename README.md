@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure Active Directory</b>
-  - [Preparing Active Directory Infrastructure in the cloud (Azure)](https://github.com/reimon08/Preparing-Active-Directory-in-the-cloud-Azure-)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/reimon08/azure-network-protocols)
+  - [Preparing on-premises Active Directory within Azure VMs](https://github.com/reimon08/Preparing-on-premises-Active-Directory-in-the-cloud-within-Azure-VMs)
+  - [Configuring on-premises Active Directory within Azure VMs](https://github.com/reimon08/Configuring-on-premises-Active-Directory-within-Azure-VMs)
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
