@@ -20,4 +20,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/reimon-javing-959b6b352/
+[linkedin]: https://www.linkedin.com/in/reimon-javing/
