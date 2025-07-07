@@ -5,6 +5,8 @@
 - <b>Microsoft Azure Active Directory</b>
   - [Preparing on-premises Active Directory within Azure VMs](https://github.com/reimon08/Preparing-on-premises-Active-Directory-in-the-cloud-within-Azure-VMs)
   - [Configuring on-premises Active Directory within Azure VMs](https://github.com/reimon08/Configuring-on-premises-Active-Directory-within-Azure-VMs)
+  - [Active Directory: Managing Accounts & Group Policy in Azure](https://github.com/reimon08/Configuring-on-premises-Active-Directory-within-Azure-VMs)
+
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
