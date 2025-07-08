@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure: Compute and Networking</b>
-  - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](IN-PROGRESS)
+  - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines] IN-PROGRESS
  
     
 - <b>Microsoft Azure: Active Directory</b>
