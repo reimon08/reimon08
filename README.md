@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure: Compute and Networking</b>
-  - [Preparing on-premises Active Directory within Azure VMs](https://github.com/reimon08/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines](https://github.com/reimon08/azure-network-protocols)
  
     
 - <b>Microsoft Azure: Active Directory</b>
